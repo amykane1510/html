@@ -1,0 +1,35 @@
+<html>
+	<head>
+	</head>
+		<body>
+			<table bgcolor="#9997A8" width="1350" height="620" >
+			<tr>
+			   <td align="center" colspan="2"><h1><font color="black"><marquee behavior="alternate"
+			   style="background:#9997A8">HIJAB STYLE</marquee></font> <br></h1>
+			   <h2>BIENVENUE DANS NOTRE BOUTIQUE DE VETEMENT POUR FEMME.</h2><br><h2>Faites de votre 
+			   habillement un atout de confort!!</h2>
+			   <img src="logo.jpg" width="600" height="400" align="center" ></td></tr>
+			<tr>
+			   <td>
+			   <h2><a href="Accuei.html">Accueil</a></h2>
+			   <h2><a href="Presentation.html">Presentation</a></h2>
+			   <h2><a href="Service.html">Services</a></h2>
+			   <h2><a href="Gallerie.html">Gallerie</a></h2>
+			   <h2><a href="Contacts.html">Contacts</a></h2>
+			   </td>
+			   <td>
+			   les services offerts chez Hijab Fashion  :
+			   <ul>
+			   <li><h2> vente de vétements</h2></li>
+			   <li><h2> vente de voiles</h2></li>
+			   <li><h2>vente de chaussures</h2></li>
+			   <li><h2>vente de sac de plusieurs marques</h2></li>
+			   Commandez à tout moment et vous aurez vos commandes dans les plus brefs délais!!!!!!
+			   </ul>
+			 </td>
+			   </tr>
+			   <tr><td colspan ="4" bgcolor="blue" align="center"<h>RENDEZ VOUS BELLE CHEZ HIJAB STYLE!!!!</h1</td></tr>
+			   </table>
+		</body>
+	
+</html>	 

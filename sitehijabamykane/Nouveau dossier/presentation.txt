@@ -1,0 +1,12 @@
+<html>
+<head>
+<body>
+</body>
+<tr>
+			   <td>
+			   <h2><a href="Accueil.html">Accueil</a></h2>
+			   <h2><a href="Presentation.html">Presentation</a></h2>
+			   <h2><a href="Services.html">Services</a></h2>
+			   <h2><a href="Gallerie.html">Gallerie</a></h2>
+			   <h2><a href="Contacts.html">Contacts</a></h2>
+			   </td>

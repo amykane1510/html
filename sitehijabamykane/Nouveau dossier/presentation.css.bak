@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<body>
+			<table bgcolor="#9997A8" width="1350" height="620" >
+			<tr>
+			   <td align="center" colspan="2"><h1>HIJAB STYLE<br></h1>
+			   <h2>BIENVENUE DANS NOTRE BOUTIQUE DE VETEMENT POUR FEMME.</h2><br><h2>Faites de votre 
+			   habillement un atout de confort!!</h2>
+			   <img src="logo.jpg" width="600" height="400" align="center" ></td></tr>
+			<tr>
+			   <td>
+			   <h2><a href="Accuei.html">Accueil</a></h2>
+			   <h2><a href="Presentation.html">Presentation</a></h2>
+			   <h2><a href="Service.html">Services</a></h2>
+			   <h2><a href="Gallerie.html">Gallerie</a></h2>
+			   <h2><a href="Contacts.html">Contacts</a></h2>
+			   </td>
+			   <td>
+			   BIENVENUE CHEZ HIJAB STYLE
+Bienvenue dans l'univers de mode et de prêt-à-porter qui répond aux goûts <br>
+et aux critères de chaque femmes désirant allier pudeur, féminité et élégance<br>
+sans faire de concession à leur pratique spirituelle.<br>
+Dans un style original et novateur HIJAB STYLE Concept store s’est donné<br>
+comme ligne conductrice de proposer des vêtements tendance et moderne de<br>
+bonne qualité sélectionnés avec soin, mais aussi de développer une large <br>
+gamme d'accessoires pour aiguailler vos tenues , sacs , chaussures bijoux <br>
+aciers , montres et toutes une panoplie de hijab ! Une vrai caverne aux trésors !<br>
+Vous l'aviez compris VOUS ETES AU BON ENDROIT !<br>
+Bon Shopping et Bonne visite !
+			   
+			</td>
+		</body>
+		</head>
+	
+</html>	 

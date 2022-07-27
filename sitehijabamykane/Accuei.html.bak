@@ -1,0 +1,47 @@
+<html>
+	<head>
+	</head>
+		<body>
+			<table bgcolor="#9997A8" width="1350" height="620" >
+			<tr>
+			   <td align="center" colspan="2"><h1><font color="black"><marquee
+			   style="background:#9997A8">HIJAB FASHION STYLE</marquee></font> <br></h1>
+			   <h2>BIENVENUE DANS NOTRE BOUTIQUE DE VETEMENT POUR FEMME.</h2><br><h2>Faites de votre 
+			   habillement un atout de confort!!</h2>
+			   <img src="logo.jpg" width="600" height="400" align="center" ></td><br>
+			<tr>
+			<td>
+			   <h2><a href="Accuei.html">Accueil</a></h2>
+			   <h2><a href="Presentation.html">Presentation</a></h2>
+			   <h2><a href="Service.html">Service</a></h2>
+			   <h2><a href="Gallerie.html">Gallerie</a></h2>
+			   <h2><a href="Contacts.html">Contacts</a></h2>
+			</td>
+			<td>
+			   <img src="image2.png" width="205" height="255"> 
+			   <img src="image4.png"width="205" height="255">
+			   <img src="image7.png"width="205" height="255">
+			   <img src="image15.png"width="205" height="255">
+			   <img src="image10.png"width="205" height="255"><br>
+			   <img src="image46.jpg"width="205" height="255">
+			   <img src="image47.jpg"width="205" height="255">
+			   <img src="image48.jpg"width="205" height="255">
+			   <img src="image49.jpg"width="205" height="255">
+			   <img src="image45.jpg"width="205" height="255"><br>
+			   <img src="image11.png"width="205" height="255">
+			   <img src="image14.png"width="205" height="255">
+			   <img src="image3.png"width="205" height="255">
+			   <img src="image9.png"width="205" height="255">
+			   <img src="image6.png"width="205" height="255"><br>
+			   <img src="image40.jpg"width="205" height="255">
+			   <img src="image41.jpg"width="205" height="255">
+			   <img src="image42.jpg"width="205" height="255">
+			   <img src="image43.jpg"width="205" height="255">
+			   <img src="image44.jpg"width="205" height="255"><br>
+			</td>
+			   </tr>
+			   <tr><td colspan ="4" bgcolor="blue" align="center"<h>RENDEZ VOUS BELLE CHEZ HIJAB STYLE!!!!</h1</td></tr>
+		</table>
+		</body>
+	
+</html>	 
